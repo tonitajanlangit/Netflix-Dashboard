@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+pyngrok
+matplotlib.pyplot
+altair
+plotly.express
+seaborn
